@@ -48,9 +48,11 @@ Places a Joke of the Day widget on your Wordpress blog. Features include the abi
 
 == Changelog ==
 
-=
 
-1.1 =
-*  Updated readme.txt, added ability to show both 'clean' and 'dirty' jokes.
-1.0 =
-*  First stable version.
+
+= 1.1 =
+* Updated readme.txt
+* added ability to show both 'clean' and 'dirty' jokes.
+= 1.0 =
+
+* First stable version.
