@@ -78,6 +78,7 @@ function wp_widget_jotda_control() {
 		<select id="jotda-type" name="jotda-type">
 			<option value="clean" <?php if($type == 'clean') echo ' selected="selected"'; ?>>Clean (G Rated)</option>
 			<option value="dirty" <?php if($type == 'dirty') echo ' selected="selected"'; ?>>Dirty (PG-13 and up)</option>
+			<option value="all" <?php if($type == 'all') echo ' selected="selected"'; ?>>All (G to R)</option>
 		</select>
 	</p>
 		

@@ -13,9 +13,7 @@ Tested up to: 3.4
 
 Stable tag: trunk
 
-
-
-Places a Joke of the Day Advanced widget on your Wordpress blog.
+Freshen up your WordPress site with a new joke every day.
 
 
 
@@ -23,8 +21,7 @@ Places a Joke of the Day Advanced widget on your Wordpress blog.
 
 
 
-Places a Joke of the Day Advanced widget on your Wordpress blog. Features include the ability to only show jokes containing a particular keyword, a switch between 'clean' or 'dirty' jokes, as well as an option to change the current joke early if you get tired of it. Jokes are loaded via ajax, so it will never slow down the page load.
-
+Places a Joke of the Day widget on your Wordpress blog. Features include the ability to only show jokes containing a particular keyword, a switch between 'clean' or 'dirty' jokes, as well as an option to change the current joke early if you get tired of it. Jokes are loaded via ajax from [The Internet Joke Database](http://www.joke-db.com/), so your page will never be slowed due to loading jokes.
 
 
 == Installation ==
@@ -53,5 +50,7 @@ Places a Joke of the Day Advanced widget on your Wordpress blog. Features includ
 
 =
 
+1.1 =
+*  Updated readme.txt, added ability to show both 'clean' and 'dirty' jokes.
 1.0 =
 *  First stable version.
