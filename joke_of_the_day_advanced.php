@@ -27,7 +27,7 @@ function wp_widget_jotda($args) {
 	<aside id="jotda" class="widget">
 		<?php $title ? print('<h3 class="widget-title">' . $title . '</h3>') : null; ?>
 		<p><i id="jotda-output"></i><br />
-		<sub id="jotda-source">via: <a href="http://www.joke-db.com/" target="_blank" id="jotda-link">The Internet Joke Database</a></sub></p>
+		<sub id="jotda-source">via: <a href="http://www.joke-db.com/" target="_blank" id="jotda-link" rel="nofollow">The Internet Joke Database</a></sub></p>
 	</aside>
 	
 	<script>
