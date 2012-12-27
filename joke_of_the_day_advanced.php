@@ -3,7 +3,7 @@
 Plugin Name: Joke of the Day Advanced
 Plugin URI: http://www.joke-db.com/widgets/wordpress
 Description: Places a Joke of the Day on your Wordpress blog. Features include the ability to only show jokes containing a particular keyword, a switch between 'clean' or 'dirty' jokes, as well as an option to change the current joke early if you get tired of it. Jokes are loaded via ajax, so it will never slow down the page load.
-Version: 1.1
+Version: 1.2
 Author: Andy Corman
 Author URI: http://www.joke-db.com
 */
